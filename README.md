@@ -108,6 +108,15 @@ Option to save predictions.
 | Recall         | 0.87    |
 | Inference Time | \~18 ms |
 
+
+| Class       | Precision | Recall | mAP\@0.5 | mAP\@0.5:0.95 |
+| ----------- | --------- | ------ | -------- | ------------- |
+| **Soldier** | 0.682     | 0.551  | 0.615    | 0.285         |
+| **Gun**     | 0.508     | 0.397  | 0.394    | 0.254         |
+| **Tank**    | 0.735     | 0.778  | 0.784    | 0.498         |
+| **Helmet**  | 0.456     | 0.405  | 0.383    | 0.213         |
+
+
 📬 Author
 Eraiyanbu Arulmurugan
 
